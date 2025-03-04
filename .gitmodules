@@ -1,0 +1,3 @@
+[submodule "go2v"]
+	path = go2v
+	url = https://github.com/vlang/go2v.git
